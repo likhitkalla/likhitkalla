@@ -2,8 +2,6 @@
 
 ## I'm an Undergrad Student at Amrita University, India
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning AI, ML and Blockchain
 - ⚡ Fun fact I ❤️ Tech & EDMs
