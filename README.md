@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning AI, ML and Blockchain
-- ⚡ Fun fact I ❤️ Tech & EDMs
+- ⚡ Fun fact I ❤️ Tech & 🏎️
 
 ### Connect with me:
 
