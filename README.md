@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm an Undergrad Student at Amrita University, India
+## I'm an Undergrad at Amrita University, India
 
 Here are some ideas to get you started:
 
