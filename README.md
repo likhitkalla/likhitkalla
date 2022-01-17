@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Likhit 👋
 
 ## I'm an Undergrad at Amrita University, India
 
