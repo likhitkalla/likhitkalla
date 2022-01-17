@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on something cool
+- 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning AI, ML and Blockchain
 - ⚡ Fun fact I ❤️ Tech & 🐶
 
