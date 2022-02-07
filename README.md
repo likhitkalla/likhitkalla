@@ -1,6 +1,6 @@
 ### Hi there, I'm Likhit 👋
 
-## I'm an Undergrad Student at Amrita University, India
+## I'm an AI Undergrad Student at Amrita University, India
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning AI, ML and Blockchain
