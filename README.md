@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning AI, ML and Blockchain
 - ⚡ Fun fact I ❤️ Tech & Motosports 🏎️
-
+- Likhit is the cutest
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/likhitkalla/)
