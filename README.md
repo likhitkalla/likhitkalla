@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning ML and Blockchain
 - ⚡ Fun fact I ❤️ Tech & Motosports 🏎️
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likhitkalla&show_icons=true&hide=contribs,issues)
+
 ### Languages and Tools:
 <p align="left"> 
 
