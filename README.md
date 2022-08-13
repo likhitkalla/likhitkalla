@@ -1,7 +1,8 @@
 ## Hi there, I'm Likhit 👋
 
-### I'm an AI Undergrad at Amrita University, India
+### I'm a CS Undergrad at Amrita School of Engineering
 
+- 🤖 Currently studying Computer Science specialized in Artificial Intelligence
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Data Science, ML and Blockchain
 - ⚡ Fun fact I ❤️ Tech & Motosports 🏎️
