@@ -7,6 +7,9 @@
 - 🌱 I’m currently learning Data Science, ML and Blockchain
 - ⚡ Fun fact I ❤️ Tech & Motosports 🏎️
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=likhitkalla&label=Profile%20views&color=0e75b6&style=flat" alt="likhitkalla" /> </p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likhitkalla&show_icons=true&hide=contribs,issues&count_private=true&theme=swift)
 
 ### Languages and Tools:
