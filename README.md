@@ -1,15 +1,5 @@
 ## Hi there, I'm Likhit 👋
 
-<div align="left">
-  <a href="https://app.daily.dev/likhitkalla" target="_blank">
-    <img
-      width="300"
-      align="right"
-      src="https://api.daily.dev/devcards/7c874ce6d99947398efd8e78a44f5d5f.png?r=13r"
-    </a>
-  <a alt="Likhit Kalla's Dev Card"/>
-</div>
-
 ### I'm a CS Undergrad at Amrita School of Engineering
 
 - 🤖 Currently studying Computer Science specialized in Artificial Intelligence
